@@ -41,20 +41,22 @@ To use the application:
 
 ### Generate Excel File
 
-```plaintext
-Method: GET
-Endpoint: /generate-excel
+
+Method: `GET`
+Endpoint: `/generate-excel`
+
 Description: Generates an Excel file with sample employee and company data.
 
 
-Method: GET
-Endpoint: /read-excel
+Method: `GET`
+Endpoint: `/read-excel`
+
 Description: Reads the generated Excel file and returns the data in JSON format.
 
-Method: POST
-Endpoint: /insert-data
-Description: Inserts data from the Excel file into the MySQL database.
+Method: `POST`
+Endpoint: `/insert-data`
 
+Description: Inserts data from the Excel file into the MySQL database.
 
 **Access the Deployed App:** You can access the deployed app at [http://shalu.pythonanywhere.com](http://shalu.pythonanywhere.com).
 
