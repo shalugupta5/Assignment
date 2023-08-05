@@ -31,8 +31,9 @@ To use the application:
 1. Set up a virtual environment and activate it.
 2. Use `config.py` for database credentials.
 3. Install the required packages using `pip install your_requirements`.
-4. Configure your MySQL database connection in the `run.py` file.
-5. Run the Flask app using `flask run`.
+4. `pip install Flask Flask-SQLAlchemy Flask-Marshmallow openpyxl mysqlclient` or any other needed.
+5. Configure your MySQL database connection in the `run.py` file.
+6. Run the Flask app using `flask run`.
 
 
 
