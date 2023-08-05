@@ -58,5 +58,5 @@ Endpoint: `/insert-data`
 
 Description: Inserts data from the Excel file into the MySQL database.
 
-**Access the Deployed App:** You can access the deployed app at [http://shalu.pythonanywhere.com](http://shalu.pythonanywhere.com).
+**Access the Deployed App:** You can access the deployed app at [https://shalu.pythonanywhere.com](https://shalu.pythonanywhere.com).
 
